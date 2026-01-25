@@ -1,7 +1,7 @@
 # Oi, eu sou a Samara 👋✨
 (Mas pode me chamar de Samy)
 
-Tenho 27 anos e sou estudante de Engenharia de Software 🎓<br>
+Tenho 27 anos e sou estudante <br>
 Já fiz cursos de HTML, CSS e JavaScript, mas ainda tô conquistando minha confiança no código e tentando me aventurar no mundo da tecnologia 💻
 
 ### Sobre mim
